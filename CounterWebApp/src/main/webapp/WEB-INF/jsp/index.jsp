@@ -372,7 +372,7 @@
 </head>
 
 <body>
-	<h2>Warm up Project -- Ready? Go! ${pageContext.request.contextPath}</h2>
+	<h2>Demo Project -- Ready? Go! ${pageContext.request.contextPath}</h2>
 	<h2>Message : ${message}</h2>
 	<h2>Counter : ${counter}</h2>
 
