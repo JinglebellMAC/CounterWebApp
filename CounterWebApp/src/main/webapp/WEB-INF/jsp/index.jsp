@@ -3,7 +3,8 @@
 <html>
 <head>
 	<!-- 	access from local Apache Server -->
-	<script type="text/javascript" src="http://192.168.1.18/webcontent/js/fusioncharts/fusioncharts.js"></script>
+<!-- 	<script type="text/javascript" src="http://192.168.1.18/webcontent/js/fusioncharts/fusioncharts.js"></script> -->
+	<script type="text/javascript" src="webcontent/js/fusioncharts/fusioncharts.js"></script>
 	<!-- 	access static contents from local web server -->
 	<script type="text/javascript" src="webcontent/js/fusioncharts/themes/fusioncharts.theme.fint.js"></script>
 
