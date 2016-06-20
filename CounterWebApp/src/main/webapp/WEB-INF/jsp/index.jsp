@@ -373,7 +373,7 @@
 </head>
 
 <body>
-	<h2>Demo Project -- Ready? Go! ${pageContext.request.contextPath}</h2>
+	<h2>Project using Maven, Git and Jenkins... ${pageContext.request.contextPath}</h2>
 	<h2>Message : ${message}</h2>
 	<h2>Counter : ${counter}</h2>
 
